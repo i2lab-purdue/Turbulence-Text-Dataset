@@ -1,6 +1,8 @@
 # Turbulence-Text-Dataset
 
+The dataset can be downloaded from here: _____________
 
+This dataset has been used in the 5th UG2+ prize challenge in associated with Bridging the Gap Between Computational Photography and Visual Recognition Workshop at CVPR 2022. 
 
 For the code of the restoration model, please visit _______________
 
