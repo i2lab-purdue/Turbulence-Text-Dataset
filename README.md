@@ -4,7 +4,7 @@ This is the repository for the datasets used in our ECCV 2022 paper Single Frame
 
 The Turbulence Text Dataset can be downloaded from: _____________
 
-The Heat Chamber Dataset can be downloaded from: ______________
+The Heat Chamber Dataset can be downloaded from: https://drive.google.com/file/d/14iVachB95bCCtke8ONPD9CCH20JO75v2/view?usp=sharing
 
 This dataset was also used in the 5th UG2+ Prize Challenge in associated with the "Bridging the Gap Between Computational Photography and Visual Recognition Workshop" at CVPR 2022. 
 
